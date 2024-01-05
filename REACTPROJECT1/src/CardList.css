@@ -1,0 +1,13 @@
+.CardList{ background-color: rgb(255, 255, 255);
+      width:1110px;
+      min-width: 320px;
+      height: auto;
+      display: flex; 
+      flex-wrap: wrap;     
+      justify-content: space-evenly;
+      align-items: center;
+      margin-top: 0.5px;
+      position: relative;
+      left: 160px;
+      padding: 4px;
+    }
