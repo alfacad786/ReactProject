@@ -1,31 +1,12 @@
 import "./CardList.css";
-import Card from "./card.jsx";
+import Card from "./Card";
+
 function CardList() {
   return (
-    <div className="CardList">
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      
-       
+    
+    <div className="CardList" >
+      <Card  />
+    
     </div>
   );
 }

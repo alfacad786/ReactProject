@@ -1,0 +1,39 @@
+.Home {
+  background-color: rgba(0, 255, 255, 0.096);
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 2px;
+  margin: 5px;
+  border-radius: 5px;
+ 
+}
+#gradient-shape {
+  
+ 
+}
+
+h2{
+  width: 100%;
+  border-bottom: 2px solid rgb(58, 56, 59);
+}
+.Home button {
+  width: auto;
+  height: auto;
+  background-color: rgb(2, 2, 2);
+  
+}
+.Home p {
+  padding: 10px;
+color: rgb(196, 255, 255);
+}
+.Home p img {
+  width: 100px;
+  height:70px;
+  margin: 0px;
+  padding: 0px;
+}

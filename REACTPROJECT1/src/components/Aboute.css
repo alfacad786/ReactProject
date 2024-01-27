@@ -1,0 +1,11 @@
+.Home {
+  width: auto;
+  padding: 4px;
+  margin: 15px;
+  border-radius: 5px;
+}
+.Home button {
+  width: auto;
+  height: auto;
+  background-color: rgb(2, 2, 2);
+}
